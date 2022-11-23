@@ -14,3 +14,7 @@ helloword!
 helloword!  
 helloword!
 helloword!  hot_fix text  
+helloword!  hot_fix test
+
+
+>>>>>>> hot_fix
